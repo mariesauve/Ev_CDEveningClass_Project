@@ -1,0 +1,48 @@
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.deps.json
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.pdb
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\obj\Debug\net8.0\refint\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.pdb
+C:\Users\marie\OneDrive\Desktop\AFinalProTempFolder\MerchProjectModels\obj\Debug\net8.0\ref\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.deps.json
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.pdb
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\obj\Debug\net8.0\refint\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.pdb
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\MerchProjectModels\obj\Debug\net8.0\ref\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.deps.json
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.pdb
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\obj\Debug\net8.0\refint\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.pdb
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp Started\MerchProjectModels\obj\Debug\net8.0\ref\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.deps.json
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\bin\Debug\net8.0\MerchProjectModels.pdb
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\obj\Debug\net8.0\refint\MerchProjectModels.dll
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\obj\Debug\net8.0\MerchProjectModels.pdb
+C:\Users\marie\OneDrive\Desktop\A current Folder finalmvc\Finsihed Final Stuff\OnlineStoreApp delete works\MerchProjectModels\obj\Debug\net8.0\ref\MerchProjectModels.dll

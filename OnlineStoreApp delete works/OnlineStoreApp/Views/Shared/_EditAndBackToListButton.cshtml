@@ -1,0 +1,23 @@
+﻿@model int
+
+@* <div class="row">
+    <div class="col">
+        <form asp-action="Delete" asp-route-id="@Model" method="Delete">
+            <button type="submit" class="btn btn-danger form-control">Delete</button>
+        </form>
+    </div>
+    <div class="col">
+        <a asp-action="Index" class="btn btn-success form-control">Back to list</a>
+    </div>
+</div> *@
+
+@* @model int 
+ *@
+<div class="row">
+    <div class="col">
+        <button type="submit" class="btn btn-primary form-control" asp-route-id="@Model">Update</button>
+    </div>
+    <div class="col">
+        <a asp-action="Index" class="btn btn-success form-control">Back to list</a>
+    </div>
+</div>
